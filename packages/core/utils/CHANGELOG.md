@@ -1,5 +1,16 @@
 # @medusajs/utils
 
+## 2.23.1
+
+### Patch Changes
+
+- [#17959](https://github.com/medusajs/medusa/pull/17959) [`50dee3b`](https://github.com/medusajs/medusa/commit/50dee3b8fee83411321b6430fd903ecb2680beff) Thanks [@medusa-os-bot](https://github.com/apps/medusa-os-bot)! - chore(utils): update @graphql-codegen/core to 7.0.0
+
+- [#17960](https://github.com/medusajs/medusa/pull/17960) [`a7b83c0`](https://github.com/medusajs/medusa/commit/a7b83c0c2d22f8b68bc501dc5fca56f384ff8978) Thanks [@medusa-os-bot](https://github.com/apps/medusa-os-bot)! - chore(utils): update @graphql-codegen/typescript to 7.0.1
+
+- Updated dependencies []:
+  - @medusajs/deps@2.23.1
+
 ## 2.23.0
 
 ### Minor Changes

@@ -1,5 +1,14 @@
 # @medusajs/order
 
+## 2.23.1
+
+### Patch Changes
+
+- [#17939](https://github.com/medusajs/medusa/pull/17939) [`650231f`](https://github.com/medusajs/medusa/commit/650231f94b0fc1b7bacd1efd1286fce8cd024c7e) Thanks [@medusa-os-bot](https://github.com/apps/medusa-os-bot)! - fix(order): delete the undone version's adjustments in undoLastChange
+
+- Updated dependencies []:
+  - @medusajs/framework@2.23.1
+
 ## 2.23.0
 
 ### Patch Changes

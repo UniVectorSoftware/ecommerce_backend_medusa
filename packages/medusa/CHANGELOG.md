@@ -1,5 +1,70 @@
 # Change Log
 
+## 2.23.1
+
+### Patch Changes
+
+- Updated dependencies [[`9229001`](https://github.com/medusajs/medusa/commit/922900146df75106bfb132699b1f4f3aaa4f6a0b), [`e710607`](https://github.com/medusajs/medusa/commit/e710607c1d1f9d086bee8c3574f2f2978181bebd), [`575d91c`](https://github.com/medusajs/medusa/commit/575d91c1c7da0bbec6d3c3023e6be2476ff70382), [`8a43169`](https://github.com/medusajs/medusa/commit/8a43169b555ce1f7b3358ebd50016e076f57f3ba), [`d0f627d`](https://github.com/medusajs/medusa/commit/d0f627df80a83adfe9325238c831166e3fd235f4), [`6f84e7e`](https://github.com/medusajs/medusa/commit/6f84e7ed6314db48679f27a0bd1646b051c17eae), [`650231f`](https://github.com/medusajs/medusa/commit/650231f94b0fc1b7bacd1efd1286fce8cd024c7e)]:
+  - @medusajs/inventory@2.23.1
+  - @medusajs/core-flows@2.23.1
+  - @medusajs/promotion@2.23.1
+  - @medusajs/telemetry@2.23.1
+  - @medusajs/order@2.23.1
+  - @medusajs/framework@2.23.1
+  - @medusajs/event-bus-redis@2.23.1
+  - @medusajs/cloud@2.23.1
+  - @medusajs/draft-order@2.23.1
+  - @medusajs/analytics@2.23.1
+  - @medusajs/api-key@2.23.1
+  - @medusajs/audit@2.23.1
+  - @medusajs/auth@2.23.1
+  - @medusajs/cache-inmemory@2.23.1
+  - @medusajs/cache-redis@2.23.1
+  - @medusajs/caching@2.23.1
+  - @medusajs/cart@2.23.1
+  - @medusajs/currency@2.23.1
+  - @medusajs/customer@2.23.1
+  - @medusajs/event-bus-local@2.23.1
+  - @medusajs/file@2.23.1
+  - @medusajs/fulfillment@2.23.1
+  - @medusajs/index@2.23.1
+  - @medusajs/link-modules@2.23.1
+  - @medusajs/locking@2.23.1
+  - @medusajs/notification@2.23.1
+  - @medusajs/payment@2.23.1
+  - @medusajs/pricing@2.23.1
+  - @medusajs/product@2.23.1
+  - @medusajs/analytics-local@2.23.1
+  - @medusajs/analytics-posthog@2.23.1
+  - @medusajs/auth-emailpass@2.23.1
+  - @medusajs/auth-github@2.23.1
+  - @medusajs/auth-google@2.23.1
+  - @medusajs/auth-oidc@2.23.1
+  - @medusajs/caching-redis@2.23.1
+  - @medusajs/file-local@2.23.1
+  - @medusajs/file-s3@2.23.1
+  - @medusajs/fulfillment-manual@2.23.1
+  - @medusajs/locking-postgres@2.23.1
+  - @medusajs/locking-redis@2.23.1
+  - @medusajs/notification-local@2.23.1
+  - @medusajs/notification-sendgrid@2.23.1
+  - @medusajs/payment-adyen@2.23.1
+  - @medusajs/payment-stripe@2.23.1
+  - @medusajs/search-postgres@2.23.1
+  - @medusajs/rbac@2.23.1
+  - @medusajs/region@2.23.1
+  - @medusajs/sales-channel@2.23.1
+  - @medusajs/search@2.23.1
+  - @medusajs/settings@2.23.1
+  - @medusajs/stock-location@2.23.1
+  - @medusajs/store@2.23.1
+  - @medusajs/tax@2.23.1
+  - @medusajs/translation@2.23.1
+  - @medusajs/user@2.23.1
+  - @medusajs/workflow-engine-inmemory@2.23.1
+  - @medusajs/workflow-engine-redis@2.23.1
+  - @medusajs/admin-bundler@2.23.1
+
 ## 2.23.0
 
 ### Minor Changes

@@ -1,5 +1,19 @@
 # @medusajs/draft-order
 
+## 2.23.1
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/cli@2.23.1
+  - @medusajs/framework@2.23.1
+  - @medusajs/test-utils@2.23.1
+  - @medusajs/admin-sdk@2.23.1
+  - @medusajs/dashboard@2.23.1
+  - @medusajs/js-sdk@2.23.1
+  - @medusajs/icons@2.23.1
+  - @medusajs/ui@4.3.1
+
 ## 2.23.0
 
 ### Minor Changes

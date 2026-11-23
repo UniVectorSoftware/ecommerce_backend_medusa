@@ -1,5 +1,18 @@
 # @medusajs/core-flows
 
+## 2.23.1
+
+### Patch Changes
+
+- [#17936](https://github.com/medusajs/medusa/pull/17936) [`e710607`](https://github.com/medusajs/medusa/commit/e710607c1d1f9d086bee8c3574f2f2978181bebd) Thanks [@medusa-os-bot](https://github.com/apps/medusa-os-bot)! - fix(core-flows): require shipping for order items whose product has a shipping profile
+
+- [#17946](https://github.com/medusajs/medusa/pull/17946) [`575d91c`](https://github.com/medusajs/medusa/commit/575d91c1c7da0bbec6d3c3023e6be2476ff70382) Thanks [@medusa-os-bot](https://github.com/apps/medusa-os-bot)! - fix(core-flows): don't lock or complete an unrelated cart for a deleted payment session
+
+- [#17963](https://github.com/medusajs/medusa/pull/17963) [`6f84e7e`](https://github.com/medusajs/medusa/commit/6f84e7ed6314db48679f27a0bd1646b051c17eae) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(core-flows): validate line items in deleteLineItemsWorkflow
+
+- Updated dependencies []:
+  - @medusajs/framework@2.23.1
+
 ## 2.23.0
 
 ### Patch Changes

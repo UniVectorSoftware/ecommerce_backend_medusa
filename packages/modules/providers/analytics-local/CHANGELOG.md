@@ -1,5 +1,12 @@
 # @medusajs/analytics-local
 
+## 2.23.1
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/framework@2.23.1
+
 ## 2.23.0
 
 ### Patch Changes

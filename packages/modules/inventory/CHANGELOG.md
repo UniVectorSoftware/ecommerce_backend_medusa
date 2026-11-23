@@ -1,5 +1,14 @@
 # @medusajs/inventory-next
 
+## 2.23.1
+
+### Patch Changes
+
+- [#17962](https://github.com/medusajs/medusa/pull/17962) [`9229001`](https://github.com/medusajs/medusa/commit/922900146df75106bfb132699b1f4f3aaa4f6a0b) Thanks [@medusa-os-bot](https://github.com/apps/medusa-os-bot)! - fix(inventory): release reserved quantity at the old location when moving a reservation
+
+- Updated dependencies []:
+  - @medusajs/framework@2.23.1
+
 ## 2.23.0
 
 ### Patch Changes
